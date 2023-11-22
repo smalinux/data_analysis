@@ -1,3 +1,4 @@
 compile_commands*
 .~
 .ipynb_checkpoints
+*.pkl
