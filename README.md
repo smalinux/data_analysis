@@ -27,13 +27,15 @@ conda install jupyter pandas numpy matplotlib scikit-learn
 
 _________
 
-## ML workflow
+## ML Workflow
 
 📊 - **Data Collection**: Gather relevant data from various sources. This can involve acquiring datasets or generating data through experiments/sensors.
 
 🔍 - **Data Exploration**: Explore and understand the data by visualizing, summarizing, and analyzing its characteristics to identify patterns or anomalies.
 
 📉 - **Data Preprocessing**: Cleanse, preprocess, and transform the data by handling missing values, normalization, feature scaling, and other techniques to prepare it for modeling.
+
+[![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1cJr-F1hAuVMMkjoRM9kpj1KCi5gQfZzb?usp=sharing)
 
 💡 - **Feature Engineering**: Create new features or modify existing ones to improve the predictive performance of machine learning models.
 
